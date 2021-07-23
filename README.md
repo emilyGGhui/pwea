@@ -1,1 +1,1 @@
-{ "open":false, "country":"India", "countryCode":"", "timeZone":"GMT+05:30" }
+{ "open":true, "country":"India", "countryCode":"", "timeZone":"GMT+05:30" }
